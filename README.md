@@ -1,10 +1,9 @@
-8# DIY Ignition Coil and Spark Plug Tester with Arduino
+# DIY Ignition Coil and Spark Plug Tester with Arduino
 
 This project uses an Arduino and an IRF520 MOSFET module to control an ignition coil and spark plug to produce a series of sparks. The number of sparks, the duration of the signal to the ignition coil, and the pause between cycles can be configured using the constants defined in the code.
 
 Example:
-https://github.com/popradu10/pop-radu-diy-ignition-coil-spark-plug-tester/
-docs/YouCut_20250327_202833411.mp4
+https://github.com/popradu10/pop-radu-diy-ignition-coil-spark-plug-tester/docs/YouCut_20250327_202833411.mp4
 
 ## Constants
 - **SPARK_NO**: Number of sparks the ignition coil will produce in each cycle.
